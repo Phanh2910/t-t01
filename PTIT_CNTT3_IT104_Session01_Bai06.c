@@ -20,7 +20,6 @@ for (int i = 0; i < arrayLength; i++) {
 //array[1] => O(1)
 //0(1)+ 0(1)+ 0(1)+...+0(1)=>0(n)
 
-
 int main() {
     int elements;
     int elementCheck;
@@ -43,3 +42,6 @@ printf("So lan xuat hien cua phan tu %d la: %d", elementCheck, result);
 
     return 0;
 }
+
+// độ phức tạp thời gian là: 0(n)
+// độ phức tạp của không gian là 0(1)

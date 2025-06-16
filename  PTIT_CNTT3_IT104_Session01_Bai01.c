@@ -6,3 +6,4 @@ int main() {
     }
     return 0;
 }
+//độ phức tạp thời gian là: O(n)
